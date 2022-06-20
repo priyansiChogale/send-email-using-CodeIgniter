@@ -1,7 +1,7 @@
 # send-email-using-CodeIgniter
-•	A form where user can enter their name, mail, subject and message.
-•	Once user clicks on 'Send', user gets a mail to email address provided in form. 
-•	The email consists of subject and message entered in the Form.
+- A form where user can enter their name, mail, subject and message.
+- Once user clicks on 'Send', user gets a mail to email address provided in form. 
+- The email consists of subject and message entered in the Form.
 
 ![image](https://user-images.githubusercontent.com/68726065/174552098-e7bde688-abd0-416f-8af8-52f86a80be21.png)
 
